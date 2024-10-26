@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+# Active Directory Home Lab With Creation of Users using a Powershell Script
 
 ## Description
 This project is a walkthrough of how I created an Active Directory environment using Oracle VM VirtualBox. I set had to set up a Windows Server 2022 to run Active Directory on it. I also configured a Domain Controller that will allow me to run a domain and then I ran a Powershell script that would create over 1000 users in Active Directory. This lab gave me hands-on experience with configuring an Active Directory and Domain Controller and it also simulates a business environment.
